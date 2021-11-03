@@ -8,7 +8,7 @@ The dynamics is simple to understand:
 - When you **release f**, the life wave is **launched**.
 - After **5 seconds** of being released, **it is destroyed**.
 ##
-=========================================
+
 # DESAFÍO BOLA DE DRAGÓN
 
 Para un videojuego estamos desarrollando las dinámicas de juego y tenemos que
